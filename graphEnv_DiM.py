@@ -3,7 +3,7 @@
 """
 Created on Mon Dec 11 22:35:26 2023
 
-@author: vyt
+@author: 
 """
 from sklearn.linear_model import LinearRegression
 import numpy as np
